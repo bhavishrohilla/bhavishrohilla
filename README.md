@@ -22,7 +22,7 @@
 ![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat-square&logo=google-chrome&logoColor=ffffff)\
 ![SQL](https://img.shields.io/badge/-SQL-333333?style%3Dflat-square%26logo=sql-server&logoColor=3Dffffff)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=ffffff)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku&logoColor=ffffff)\
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku&logoColor=ffffff)
 
 
 ###  GitHub Stats &#x1f4c8;
