@@ -1,7 +1,7 @@
 ### Hello ,welcome to my profile<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rohit1204)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-333333?style=flat-square&logo=Facebook&logoColor=white)](https://fb.me/rohitahuja)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-333333?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/developer_2.0/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhavish-rohilla-b17a49194)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-333333?style=flat-square&logo=Facebook&logoColor=white)](https://fb.me/bhavish.rohilla.844)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-333333?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kyayaarbhavish)
 
 ##### This is Bhavish Rohilla a Fullstack Developer Software Developer and Beginner In Data Science. I am a developer having a problem solving approach and interested in problems dealing with real time solutions.I am enthaustic to work on new and emerging projects that can bring change in this world.
 
@@ -29,11 +29,11 @@
 ###  GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/bhavishrohilla/bhavishrohilla">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Rohit1204&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=333333&icon_color=757575&bg_color=ffffff" alt="Rohit Ahuja GitHub Stats" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Rohit1204&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=333333&icon_color=757575&bg_color=ffffff" alt="Bhavish Rohilla GitHub Stats" />
   </a>
-  <a href="https://github.com/Rohit1204/github-readme-stats">
+  <a href="https://github.com/bhavishrohilla/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" width="44%"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rohit1204&line_height=27&layout=compact&theme=radical&title_color=000000&text_color=000000&icon_color=757575&bg_color=ffffff" />
+  <img align="center" width="44%"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bhavishrohilla&line_height=27&layout=compact&theme=radical&title_color=000000&text_color=000000&icon_color=757575&bg_color=ffffff" />
 </a>
 
 
@@ -41,13 +41,13 @@
 
 <p>
   <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/Rohit1204/Rohit1204?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/bhavishrohilla/bhavishrohilla?style=flat-square&color=black&logo=github">
   </a>
     <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/Rohit1204?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/bhavishrohilla?style=flat-square&color=black&logo=github">
   </a>
      <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/Rohit1204?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/commits/monthly/bhavishrohilla?style=flat-square&color=black&logo=github">
   </a>
 
 <!--
