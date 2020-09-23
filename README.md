@@ -3,7 +3,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-333333?style=flat-square&logo=Facebook&logoColor=white)](https://fb.me/bhavish.rohilla.844)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-333333?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kyayaarbhavish)
 
-##### This is Bhavish Rohilla a Fullstack Developer Software Developer and Beginner In Data Science. I am a developer having a problem solving approach and interested in problems dealing with real time solutions.I am enthusiastic to work on the new and emerging projects that can bring some change in the world.
+##### This is Bhavish Rohilla, a Fullstack Developer Software Developer and Beginner In Data Science. I am a developer having a problem solving approach and interested in problems dealing with real time solutions.I am enthusiastic to work on the new and emerging projects that can bring some change in the world.
 
 ### Tech Stack 🛠 &nbsp;
 
