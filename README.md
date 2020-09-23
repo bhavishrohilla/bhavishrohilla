@@ -28,7 +28,7 @@
 ###  GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/bhavishrohilla/bhavishrohilla">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Rohit1204&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=333333&icon_color=757575&bg_color=ffffff" alt="Bhavish Rohilla GitHub Stats" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=bhavishrohilla&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=333333&icon_color=757575&bg_color=ffffff" alt="Bhavish Rohilla GitHub Stats" />
   </a>
   <a href="https://github.com/bhavishrohilla/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
