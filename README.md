@@ -1,10 +1,9 @@
 ### Hello ,welcome to my profile<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rohit1204)
-[![Website Badge](https://img.shields.io/badge/Website-333333?style=flat-square&logo=google-chrome&logoColor=white)](https://rohit1204.github.io/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-333333?style=flat-square&logo=Facebook&logoColor=white)](https://fb.me/rohitahuja)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-333333?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/developer_2.0/)
 
-##### This is Rohit Ahuja a Fullstack Developer Software Developer and Beginner In Data Science. I am a developer having a problem solving approach and interested in problems dealing with real time solutions.I am enthaustic to work on new and emerging projects that can bring change in this world.
+##### This is Bhavish Rohilla a Fullstack Developer Software Developer and Beginner In Data Science. I am a developer having a problem solving approach and interested in problems dealing with real time solutions.I am enthaustic to work on new and emerging projects that can bring change in this world.
 
 ### Tech Stack 🛠 &nbsp;
 
@@ -29,7 +28,7 @@
 
 ###  GitHub Stats &#x1f4c8;
 
-<a href="https://github.com/Rohit1204/Rohit1204">
+<a href="https://github.com/bhavishrohilla/bhavishrohilla">
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Rohit1204&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=333333&icon_color=757575&bg_color=ffffff" alt="Rohit Ahuja GitHub Stats" />
   </a>
   <a href="https://github.com/Rohit1204/github-readme-stats">
