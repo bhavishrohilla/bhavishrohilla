@@ -21,7 +21,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows&logoColor=ffffff)&nbsp;
 ![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat-square&logo=google-chrome&logoColor=ffffff)\
 ![SQL](https://img.shields.io/badge/-SQL-333333?style%3Dflat-square%26logo=sql-server&logoColor=3Dffffff)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-SUBLIME%20TEXT-333333);
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333);
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=ffffff)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku&logoColor=ffffff)
 
