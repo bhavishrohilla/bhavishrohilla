@@ -8,10 +8,8 @@
 ### Tech Stack 🛠 &nbsp;
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=ffffff)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript&logoColor=ffffff)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&logoColor=ffffff)&nbsp;
-![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=C%2B%2B&logoColor=ffffff)\
-![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react&logoColor=ffffff)&nbsp;
+![C#](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=C%2B%2B&logoColor=ffffff)\
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat-square&logo=django&logoColor=ffffff)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5&logoColor=ffffff)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=ffffff)&nbsp;
@@ -23,7 +21,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-333333?style%3Dflat-square%26logo=sql-server&logoColor=3Dffffff)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-333333)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=ffffff)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat-square&logo=heroku&logoColor=ffffff)
+
 
 
 ###  GitHub Stats &#x1f4c8;
