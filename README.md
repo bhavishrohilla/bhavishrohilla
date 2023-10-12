@@ -1,7 +1,7 @@
 ### Hello ,welcome to my profile<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhavish-rohilla-b17a49194)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhavishrohilla-webdeveloper/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-333333?style=flat-square&logo=Facebook&logoColor=white)](https://fb.me/bhavish.rohilla.844)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-333333?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kyayaarbhavish)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-333333?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/bhavishrohilla_917)
 
 ##### This is Bhavish Rohilla, a Fullstack Developer Software Developer and Beginner In Data Structures. I am a developer having a problem solving approach and interested in problems dealing with real time solutions.I am enthusiastic to work on the new and emerging projects that can bring some changes in the world.
 
